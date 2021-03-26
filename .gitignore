@@ -4,3 +4,4 @@
 config.py
 *.json
 keys/
+_pycache_/
