@@ -2,3 +2,4 @@
 *.zip
 config.py
 *.json
+keys/
